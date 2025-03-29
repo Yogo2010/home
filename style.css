@@ -1,0 +1,139 @@
+body {
+    background: #f6f6fa;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: "Montserrat", sans-serif;
+}
+.wrapper{
+    background: #ffffff;
+    display: flex;
+    flex-direction: row-reverse;
+}
+/* Main content */
+.main-content{
+    padding-left: 88px;
+    padding-right: 40px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    box-sizing: border-box;
+}
+/* Sidebar */
+.sidebar{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background: #e0ebfe;
+    box-sizing: border-box;
+    width: 370px;
+}
+.sidebar-content{
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+/* Contacts */
+.contacts-title{
+font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 22px;
+    color: #161d2a;
+    margin-top: 0px;
+    margin-bottom: 8px
+}
+.contact-tipe{
+font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 171%;
+    color: #161d2a;
+    margin-right: 8px;
+    margin-top: 0px;
+}
+.contacts-link{
+    font-family: var(--font-family);
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 171%;
+    text-decoration: underline;
+        text-decoration-skip-ink: none;
+        color: #2979ff;
+}
+.contacts-element {
+    margin-top: 0px;
+    margin-bottom: 4px;
+}
+
+.contacts-element {
+    margin-bottom: 4px;
+}
+
+/* Skiils-container */
+.skills-container {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.skills-title {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 22px;
+    color: #161d2a;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+.skills-list{
+    padding-left: 16px;
+    
+}
+.skills-list-item{
+font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    color: #161d2a;
+    /* Main content */
+}
+.my-professon{
+font-family: var(--font-family);
+font-weight: 700;
+font-size: 14px;
+line-height: 121%;
+color: #595959;
+margin-top: 0px;
+margin-bottom: 8px;
+}
+.my-name{
+    font-family: var(--font-family);
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 122%;
+        color: #595959;
+        margin-top: 0px;
+        margin-bottom: 12px;
+}
+.my-deskr{
+font-family: var(--font-family);
+font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+color: #595959;
+}
+.my-info{
+    margin-bottom: 40px;
+}
+/* My projects */
+.my-projects-title{
+font-family: var(--font-family);
+font-weight: 700;
+font-size: 22px;
+line-height: 123%;
+color: #000;
+margin-top: 0px;
+margin-bottom: 8px;
+}
+
+.my-projects-list{
+
+}
